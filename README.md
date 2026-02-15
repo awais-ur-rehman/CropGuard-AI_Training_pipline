@@ -81,4 +81,4 @@ We implemented **Grad-CAM (Gradient-weighted Class Activation Mapping)** to visu
 
 ---
 
-**Link to Training Notebook:** [Kaggle Notebook]([https://www.kaggle.com/code/awaisurrehman/cropguard-ai](https://www.kaggle.com/code/awaisjarral/cropguard-ai))
+**Link to Training Notebook:** [Kaggle Notebook](https://www.kaggle.com/code/awaisjarral/cropguard-ai)
